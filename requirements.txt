@@ -1,0 +1,14 @@
+pyarrow==6.0.1
+flair==0.11.3
+smart-open
+spacy
+scispacy
+wandb
+jupyter
+pandas
+ipywidgets>=8.0.2
+fire
+seqeval
+coverage
+pytest
+transformers accelerate evaluate datasets loralib git+https://github.com/huggingface/peft
